@@ -9,7 +9,7 @@ import datetime
 locale.setlocale(locale.LC_ALL, 'fr_FR')
 
 # Set le token du bot
-TOKEN = 'x' #Je ne souhaite pas montrer le token de mon bot
+TOKEN = 'x'
 
 # Set le prefix
 client = discord.Client()
