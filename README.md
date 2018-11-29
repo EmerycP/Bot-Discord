@@ -10,14 +10,14 @@ Je veux pouvoir faire un bot pouvant répondre à des commandes de bases que nou
 
 ## Commande d'introduit :notebook_with_decorative_cover:
 
-### Pour tout le monde :man:
+### Pour tout le monde :man: (!help)
 
 + !help : sert à voir chacune des commandes disponible
 + !rolldice: sert à rouler un dé aléatoirement entre ses six faces
 + !date : donne la date d'aujourd'hui en format "day month year"
 + [Plus à venir...]
 
-### Pour les modérateurs :angel:
+### Pour les modérateurs :angel: (!mods)
 
 + !clear : sert à supprimer les 5 derniers messages.
 
