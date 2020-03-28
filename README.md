@@ -26,4 +26,4 @@ Je veux pouvoir faire un bot pouvant répondre à des commandes de bases que nou
 + [Plus à venir...]
 
 
-
+[Remake de ce bot en cours, en Java cette fois.]
